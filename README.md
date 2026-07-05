@@ -1,4 +1,4 @@
-# Lab M1.02 - Cloud Fundamentals Challenge
+# Lab M1.02-1 - Cloud Fundamentals Challenge
 
 **Repository:** https://github.com/cloud-engineering-bootcamp/ce-lab-cloud-fundamentals
 
